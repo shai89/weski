@@ -50,9 +50,15 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## To start the project
 cd into weski-task\weskitask
+
 npm i
+
 npm start
+
 cd ..
+
 cd backend
+
 npm i
+
 npm run dev
